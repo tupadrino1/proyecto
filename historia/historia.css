@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    }
+    
+    .img{
+    align-content: center;
+    
+    }
+    
+    
+    .linea{
+    background: #5baa67;
+    height: 10px;
+    width: 100%;
+    display: block;
+    }
